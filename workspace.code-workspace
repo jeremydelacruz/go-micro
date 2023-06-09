@@ -14,11 +14,20 @@
 		},
 		{
 			"path": "logger-service"
+		},
+		{
+			"path": "mail-service"
+		},
+		{
+			"path": "listener-service"
 		}
 	],
 	"settings": {
 		"cSpell.words": [
-			"bson"
+			"bson",
+			"premailer",
+			"SSLTLS",
+			"STARTTLS"
 		]
 	}
 }
